@@ -1,0 +1,17 @@
+baseURL = "http://steakhal.web.elte.hu/"
+languageCode = "hu"
+title = "Benics Balázs honlapja"
+theme = "hyde"
+
+[params]
+  description = "Imperatív programozás gyakorlat anyagai a 8-as csoporthoz."
+  metaDescription = "ELTE, imperatív, c++"
+  facebookName = "balazsbenics"
+  twitterName = "bbenics"
+  githubName = "steakhal"
+
+  disqusShortname = ""
+  googleAnalytics = ""
+  layoutReverse = false
+  themeColor = ""
+
