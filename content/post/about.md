@@ -20,7 +20,8 @@ Feladatok gyakorláshoz: https://canvas.elte.hu
 
 ## Számonkérés
 
-Minden órán röpdolgozat (0-2 pontért)
+Minden órán röpdolgozat (&plusmn;).
+Ezen 10  dolgozat mindegyike 0, 1 vagy 2 pontos, amennyiben valaki hiányzott, akkor 0 pont. Ez egyben a katalódus is, ami szerint ha valaki 3-om alkalomnál többször hiányzik, akkor nem szerezhet jegyet a tárgyból.
 
 ## Elérhetőségeim
 Email: [benicsbalazs@gmail.com](mailto:benicsbalazs@gmail.com)
