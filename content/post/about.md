@@ -2,6 +2,7 @@
 title: "Kurzusról"
 date: 2019-09-13T12:00:00+02:00
 draft: false
+summary: gyakorlat helye, időpontja, követelmények, számonkérés, elérhetőség
 ---
 
 # Imperatív programozás

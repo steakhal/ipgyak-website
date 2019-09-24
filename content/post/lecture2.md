@@ -2,6 +2,7 @@
 title: "2. gyakorlat"
 date: 2019-09-17T13:00:00+02:00
 draft: false
+summary: fordítás lépései, imperatív programozási elemek, formatstring, jokerek, típusok, kiírás, beolvasás, gyakorlás
 ---
 
 ### Összefoglaló

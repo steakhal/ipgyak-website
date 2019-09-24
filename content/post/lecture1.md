@@ -2,12 +2,11 @@
 title: "1. gyakorlat"
 date: 2019-09-13T12:00:00+02:00
 draft: false
+summary: alapvető bash utasítások (cd, ls, mkdir, touch, rm, mv, cp, echo), vim, haladó fogások
 ---
 
 ### Összefoglaló
-alapvető bash utasítások: cd, ls, mkdir, touch, rm, mv, cp, echo, vim
-
-haladó fogások
+alapvető bash utasítások: cd, ls, mkdir, touch, rm, mv, cp, echo, vim, haladó fogások
 
 ---
 
