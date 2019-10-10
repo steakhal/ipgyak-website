@@ -1,13 +1,31 @@
 ---
 title: "5. gyakorlat"
 date: 2019-10-08T13:00:00+02:00
-draft: true
-summary: TODO
+draft: false
+summary: mutatók, max fv, search fv, deklaráció, definició, header fájl, körkörös include
 ---
 
 ### Összefoglaló
-TODO
+mutatók, max fv, search fv, deklaráció, definició, header fájl, körkörös include
 
+## Feladatok mutatókkal
+
+- mutató kiirása
+- `NULL` mutató kiirása
+- `swap` függvény megvalósitása
+
+## Tömböm mint függvény paraméter
+
+- `max` föggvény tömbökre
+- `search` függvény megvalósitása *string*-ekre (aka. *needle & haystack*)
+
+## Programok több fájlra bontása
+- header fájlok (.h)
+- forditási egységek (.c fájlok)
+
+## Mi a header
+- Mi a *header-guard*, miért használjuk?
+- szimbólum (pl. fv név) deklarációk, definiciók...
 
 ---
 Fájlok:
