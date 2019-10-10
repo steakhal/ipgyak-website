@@ -23,6 +23,21 @@ mutatók, max fv, search fv, deklaráció, definició, header fájl, körkörös
 - header fájlok (.h)
 - forditási egységek (.c fájlok)
 
+### Példa: swap
+`swap.c`:
+
+> A `swap` implementációja.
+
+`swap.h`:
+
+> A `swap` deklarációja *header-guard*-dal védeve.
+
+`main-swap.c`:
+
+> Be *include*-olom a `swap.h`-t, azaz
+> megigérem hogy valahol definiálom majd.
+> Használom a `swap` függvényt.
+
 ## Mi a header
 - Mi a *header-guard*, miért használjuk?
 - szimbólum (pl. fv név) deklarációk, definiciók...
