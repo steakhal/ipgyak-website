@@ -36,3 +36,8 @@ További terminál utasításokat [itt](https://dev.to/awwsmm/101-bash-commands-
  * `control + w`, az aktuális utasításodból a szó elejéig töröl a kurzortól balra.
  * `alt + backspace`, az aktuális utasításodból egy szótöredéket töröl a kurzortól balra.
 
+
+---
+Fájlok:
+
+- [hello-world.c](hello-world.c)

@@ -138,3 +138,9 @@ Ajánlom a függvény leírását, visszatérési értékét és a kapcsolódó 
 
 # Feladatok
 A canvasban.
+
+
+---
+Fájlok:
+
+- [prims.c](prims.c)

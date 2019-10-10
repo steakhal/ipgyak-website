@@ -166,3 +166,13 @@ Kérj be egy pozitív egész számot, `n`-et! Írd ki a számokat `1`-től `n`-i
 
 
 **Rengeteg további feladat vár benneteket a [canvasban](https://canvas.elte.hu/courses/3557/assignments).**
+
+
+---
+Fájlok:
+
+- [getnum.c](getnum.c)
+- [header-of-getnum.h](header-of-getnum.h)
+- [nonmain.c](nonmain.c)
+- [prectice.c](prectice.c)
+- [prog.c](prog.c)

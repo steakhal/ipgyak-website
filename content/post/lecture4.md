@@ -100,3 +100,11 @@ const char *months[12] = { "january", "february" /*etc*/};
 2. Egy beolvasott `int` tömböt fordítsatok meg, majd írjátok ki.
 3. Egy beolvasott tömböt *forgassatok* el.
 4. Olvassatok be pozitív egész számot (`N`), majd olvassatok be `N` pozitív páratlan számot egy tömbbe. Majd a tömböt alakítsátok [kupaccá](https://en.wikipedia.org/wiki/Heap_(data_structure)). Természetesen ellenőrizzetek minden bemenetet.
+
+
+---
+Fájlok:
+
+- [find_min_idx_and_value.c](find_min_idx_and_value.c)
+- [pre-plusplus_vs_post-plusplus.c](pre-plusplus_vs_post-plusplus.c)
+- [reverse-array.c](reverse-array.c)
