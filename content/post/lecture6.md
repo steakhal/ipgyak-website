@@ -1,7 +1,7 @@
 ---
 title: "6. gyakorlat"
 date: 2019-10-15T13:00:00+02:00
-draft: true
+draft: false
 summary: bitműveletek, strlen, malloc használata, hibái, ascii tábla, variable length arrays, string duplikálása, stringek egyesitése, stringek összefűzése
 ---
 
