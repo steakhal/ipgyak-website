@@ -45,7 +45,7 @@ argv[3]: "44"
 ```
 
 ## Csoportos órai munka:
- [Canvas](canvas.elte.hu) `18_20_Person` feladata
+ [Canvas](https://canvas.elte.hu) `18_20_Person` feladata
 
 ---
 Fájlok:
