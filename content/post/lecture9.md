@@ -76,7 +76,7 @@ Mivel eltűnhetnek, igy nem szabad mellékhatásos függvényt használni `asser
 
 ### Extra feladatok
 - Előző órai `trim` függvény befejezése.
-- [Canvas](canvas.elte.hu) `18_20_Person` feladata.
+- [Canvas](https://canvas.elte.hu) `18_20_Person` feladata.
 
 ---
 Fájlok:
