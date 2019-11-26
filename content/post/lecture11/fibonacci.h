@@ -3,8 +3,8 @@
 
 #include <stddef.h>
 
-unsigned long long* fibs1(size_t n);
 void fibs2(size_t n, unsigned long long *result);
+unsigned long long* fibs1(size_t n);
 
 #endif // SDFGHJKLKHGFDSTYUEJH_FIBS_H
 

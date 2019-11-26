@@ -6,7 +6,16 @@
 
 
 void fibs2(size_t n, unsigned long long *result) {
+  if (n == 0)
+    return;
 
+  result[0] = 0;
+
+  if (n > 1)
+    result[1] = 1;
+
+  for (size_t i = 2; i < n; ++i)
+    result[i] = result[i-1] + result[i-2];
 }
 
 // MUST FREE the returned pointer
@@ -18,15 +27,7 @@ unsigned long long* fibs1(size_t n) {
   if (p == NULL)
     return NULL;
 
-  // p must be valid pointer here
-  p[0] = 0;
-
-  if (n > 1)
-    p[1] = 1;
-
-  for (size_t i = 2; i < n; ++i) {
-    p[i] = p[i-1] + p[i-2];
-  }
+  fibs2(n, p);
   return p;
 }
 
