@@ -43,37 +43,6 @@ A másik modulban valósíts meg egy főprogramot, amely alaposan leteszteli az 
 Írj főprogramot, amelyben minden érdekes esetet leellenőrzöl.
 
 ---
-
-## 3. feladat: is monotonic
-Írj egy C programot az alábbi működéssel:
-
-Ellenőrizd, hogy egy adott lista/tömb monoton-e (akár csökkenő, akár növekvő).
-A programokat modulárisan szervezd.
-A másik modulban valósíts meg egy főprogramot, amely alaposan leteszteli az első modulban megvalósított függvényt.
-Írj főprogramot, amelyben minden érdekes esetet leellenőrzöl.
-
----
-
-## 4. feladat: compress string
-Írj egy függvényt, amely egy paraméterként kapott sztringet tömörít (*). A függvénynek egy char-tömböt kelljen átadni, **amit megváltoztat**.
-
-A tömörítés a következőképpen történjen:
-**Ha** egymás után ugyanaz a betű többször szerepel, **akkor** az első előfordulás után írjuk be, hogy hányszor fordul elő. 
-
-Például az `az abba   aaaah, de joooooooooo!!!` sztringből tömörítés után `az ab2a 3a4h, de jo10!3` lesz.
-```
-"az abba   aaaah, de joooooooooo!!!" tömöritve "az ab2a 3a4h, de jo10!3"
-"aabb"                               tömöritve "a2b2"
-"abc"                                tömöritve "abc"
-"b"                                  tömöritve "b"
-""                                   tömöritve ""
-```
-
-Írj főprogramot, amelyben minden érdekes esetet leellenőrzöl.
-
-(*) A bemenet nem tartalmaz számokat, igy egyértelmű az elkódolás.
-
----
 Fájlok:
 
 #### 1. feladat: fibonacci
@@ -85,16 +54,6 @@ Fájlok:
 - [main-filter.c](main-filter.c)
 - [filter_first_n_positive.c](filter_first_n_positive.c)
 - [filter_first_n_positive.h](filter_first_n_positive.h)
-
-#### 3. feladat: is monotonic
-- [main-monotonic.c](main-monotonic.c)
-- [monotonic.c](monotonic.c)
-- [monotonic.h](monotonic.h)
-
-#### 4. feladat: compress string
-- [main-compress.c](main-compress.c)
-- [compress.c](compress.c)
-- [compress.h](compress.h)
 
 Feladatok forrása:
 **Luksa Norbert** Imperativ programozás [gyakorlatáról](https://docs.google.com/document/d/1tR48WoOFX2ybyP0t00j1NtTR17c_MihJR2hRsP_nZs4/edit)
