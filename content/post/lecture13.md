@@ -2,7 +2,7 @@
 title: "13. gyakorlat"
 date: 2019-12-10T1:00:00+02:00
 draft: false
-summary: További gyakorlás: domino, doctor
+summary: További gyakorlás (domino, doctor)
 ---
 
 ### Összefoglaló
