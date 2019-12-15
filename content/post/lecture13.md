@@ -127,5 +127,8 @@ Fájlok:
 - [input05.out](input05.out)
 
 
+#### Extra feladat: strrstr
+- [strrstr.c](strrstr.c)
+
 Feladatok forrása:
 **Leskó Dániel** Imperativ programozás [gyakorlatáról](http://ldani.web.elte.hu/ip/12)
