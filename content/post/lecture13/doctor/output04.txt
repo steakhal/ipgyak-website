@@ -1,0 +1,35 @@
+0. minute: Doctor arrives
+0. minute - at the waiting room:
+        - 1. patient, waiting since the 0. minute
+0. minute: 1. patient goes in
+10. minute: 1. patient leaves
+10. minute - at the waiting room:
+        - 4. patient, waiting since the 2. minute
+10. minute: 4. patient goes in
+39. minute: 4. patient leaves
+39. minute - at the waiting room:
+        - 0. patient, waiting since the 32. minute
+        - 3. patient, waiting since the 38. minute
+        - 5. patient, waiting since the 27. minute
+        - 6. patient, waiting since the 28. minute
+39. minute: 6. patient goes in
+48. minute: 6. patient leaves
+48. minute - at the waiting room:
+        - 0. patient, waiting since the 32. minute
+        - 3. patient, waiting since the 38. minute
+        - 5. patient, waiting since the 27. minute
+48. minute: 5. patient goes in
+53. minute: 5. patient leaves
+53. minute - at the waiting room:
+        - 0. patient, waiting since the 32. minute
+        - 3. patient, waiting since the 38. minute
+53. minute: 3. patient goes in
+62. minute: 3. patient leaves
+62. minute - at the waiting room:
+        - 0. patient, waiting since the 32. minute
+62. minute: 0. patient goes in
+77. minute: 0. patient leaves
+77. minute - at the waiting room:
+        - 2. patient, waiting since the 65. minute
+77. minute: 2. patient goes in
+84. minute: 2. patient leaves
