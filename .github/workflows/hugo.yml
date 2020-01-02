@@ -8,7 +8,7 @@ jobs:
     
     steps:
     - name: Update submodules
-      uses: srt32/git-actions
+      uses: srt32/git-actions@v0.0.3
       with:
         args: "git submodule update --init --recursive" 
     - name: Setup Hugo
