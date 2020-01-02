@@ -16,6 +16,8 @@ jobs:
         git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
     - name: Build Site
       uses: chabad360/hugo-actions@master
+      with:
+        args: "--destination web"
     - name: Deploy site
       uses: appleboy/scp-action@master
       with:
@@ -23,5 +25,5 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.KEY }}
-        source: "public/*"
+        source: "web"
         target: ${{ secrets.TARGET }}
