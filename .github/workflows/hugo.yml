@@ -18,6 +18,10 @@ jobs:
       uses: chabad360/hugo-actions@master
       with:
         args: "--destination web"
+    - name: debug
+      run: ls -la
+    - name: debug2
+      run: ls -la web
     - name: Deploy site
       uses: appleboy/scp-action@master
       with:
